@@ -4,7 +4,7 @@
 [![Outlook](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ghosh.anu@northeastern.edu)
 ![](https://komarev.com/ghpvc/?username=D3STRON&color=blue&style=flat-square&label=Profile+visitors)
 
-I am an aspiring Artificial Intelligence professional with a Master's degree in AI from Northeastern University, holding a 4.00 GPA and deep expertise in machine learning, natural language processing, and reinforcement learning.  
+I am an aspiring Artificial Intelligence professional with a Master's degree in AI from Northeastern University, holding 4 years of professional experience and deep expertise in machine learning, natural language processing, and reinforcement learning.  
 
 - 🏢 I'm currently Masters Student at [Northeastern University](https://www.khoury.northeastern.edu/)
 - 🎨 Checkout my [portfolio](https://d3stron.github.io/)
